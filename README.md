@@ -9,6 +9,6 @@ A Place to Keep a Log, Links and Other Materials Related to My Study
 
 Here are the resources I found and found useful:
 
-- [Free Code Camp](https://www.freecodecamp.org "FreeCodeCamp.org")
-- [The Odin Project](theodinproject.com) 
-
+- [Free Code Camp](https://www.freecodecamp.org)
+- [The Odin Project](https://www.theodinproject.com) 
+- [Codecademy](https://www.codecademy.com)
