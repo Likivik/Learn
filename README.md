@@ -7,15 +7,10 @@ A Place to Keep a Log, Links and Other Materials Related to My Studies
 1) I do my studying for free.
 2) Self-motivation is a hell of a trick.
 
+**I want to make a repository where all the best and free resources can be found!**
+
 Here are the resources I found and found useful:
 
 - [Free Code Camp](https://www.freecodecamp.org)
-  - Html,Css,JS,JQuery.
-  - Practice excercises
-  - Comunity
-  - Helping non-profits by building projects for them
-  
 - [The Odin Project](https://www.theodinproject.com)
-  - Practice
-  - Stuctured like course
 - [Codecademy](https://www.codecademy.com)
