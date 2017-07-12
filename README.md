@@ -14,5 +14,6 @@ Here are the resources I found and found useful:
   -Practice excercises
   -Comunity
   -Helping non-profits by building projects for them
-- [The Odin Project](https://www.theodinproject.com) 
+- [The Odin Project](https://www.theodinproject.com)
+  *Planned
 - [Codecademy](https://www.codecademy.com)
