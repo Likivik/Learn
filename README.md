@@ -14,3 +14,4 @@ Here are the resources I found and found useful:
 - [Free Code Camp](https://www.freecodecamp.org)
 - [The Odin Project](https://www.theodinproject.com)
 - [Codecademy](https://www.codecademy.com)
+- [Tutorialspoint](https://www.tutorialspoint.com/)
