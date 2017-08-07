@@ -1,0 +1,20 @@
+### 12 March, 2017
+# Learning to Make Decitions and Discovering the Power of CSS Preprocessors
+
+### The problem #1:
+As I'm learning to html and css things, I keep running into the same issue every time I try to make a nice looking page on my own. The issue is that, at first, it feels good and I am making good progress but in a few hours I find myself stairing at a complete mess of css and html with weird and inconsistent class names, absoulutely unorganized css snippets and html that looks like it was ran through some sort of a randomising machine.
+
+### What Helped Me:
+Realizing that my next web page is not going to be amazing, awwward winning or special in any particular way...and that it's okay.
+
+>  It is better to have one simple but **completed** web page than to have 15 ambitious but unfinished projects.
+
+I need to remind myself of simple things sometimes. Stuff like: "I can't work for a week straight, stopping only to eat and sleep" or "I'm not going to learn 3 frameworks, 5 libraries and a new programming language in a month." Same way I am not going to be able to become a great web designer right away all while skipping literally every step of the design process apart from drawing a sketch and actually writing code. No one is that good at first. So I decided to do a rational thing (finally,man!) and took one of the templates and simply made my version from scratch. I have to say it was... **so much easier** to just look at the existing solution and solve a simple problem of making my html look like that, instead of having to make 10th of decidions simultaniously about both design and development. Labour sould be separated, if you are doing desing then right now do design only. If your job is to develop, then develop and scream at the designer (or yourself) for making a shitty ui and making you re-do the work only when you are done coding.
+
+
+### The Problem #2:
+My css is a freaking mess! Damn you Cascading Sheets!
+### What helped me:
+While watching a screencast from someone from Codepen.io I discovered that **preprocessors let you nest css rules**!!! There are tons of reasons for using them, but any struggle you might experience, while learning to use preprocessors is absoulutely worth it, even if only for this ability. Nesting rules! (Pun intended) Go get organized with SASS, LESS or other solutions, they are all great, and may the power of the preprocessors always be with you.
+
+For me personally, nesting, alongside the ability to make snippets of reusable code, was like a dream come true. And what is even better I didn't have to learn all of preprocessors rules and syntax, because they accept plain css as well! I Love em, can't emphasize it enough. Wish I would have discovered the superpowers they give me earlier. 
