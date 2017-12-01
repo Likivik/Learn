@@ -37,4 +37,6 @@ pacman responded with a list of files that (like .conf, and kernel modules, whic
 ## Conclusions:
 * Always check if it's just GUI
 * Go for drivers when in doubt (in my case virtualbox stuff)
+* Make backups
+* Read logs (ex.: startx log)
 Spent 1.5 days fixing this.
